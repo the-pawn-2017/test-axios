@@ -1,0 +1,1 @@
+export function MD5(instring:string|number): string
